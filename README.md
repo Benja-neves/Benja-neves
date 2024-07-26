@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Benjamin da Conceição
 
-Sou iniciante na programação e busco aprender novas tecnologias e expandir meu conhecimento nessa área.
+Sou iniciante na programação e busco aprender, desenvolver e aplicar soluções de software em quanto meu período acadêmico.
 
 ## Tecnologias que eu uso até o momento
 <div style="display: incline_block"><br/>
